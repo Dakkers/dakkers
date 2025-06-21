@@ -1,4 +1,16 @@
-## Hi there 👋
+# My README
+
+My recent experience:
+
+- I'm currently the lead front-end developer @CryptoGuardrail
+- I spearheaded the development of @ApplyBoard's design system Crystal UI
+- I did quite a bit of full-stack work at Bidvine (now defunct)
+
+I also:
+
+- Work on the website [Learn Oneida](http://learn-oneida.com/)
+- Compose [orchestral music](https://dakota-stlaurent.bandcamp.com/) and [music suitable for video games](https://saintlyaudio.bandcamp.com/)
+- Care for [potbelly pigs](https://www.instagram.com/pigs_of_scotland)
 
 <!--
 **Dakkers/dakkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
